@@ -1,0 +1,12 @@
+{
+  "name": "comcast-sucks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hannahpatellis/comcast-sucks.git",
+  "author": "Alexandria 'Hannah' I. Patellis",
+  "license": "MIT",
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "dotenv": "^6.2.0"
+  }
+}
