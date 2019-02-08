@@ -12,10 +12,10 @@ let $ProcTbl;
 let $eventTbl;
 
 const ts = moment().format('YY-MM-DD HH:mm');
-const file = `./${ts}.json`;
+const file = `./logs/${ts}.json`;
 
 const start = (cb) => {
-  console.log("\n\x1b[41m\x1b[37m", `🚫 COMCAST SUCKS v. 1 for TP-Link TC-7620 🚫`, "\x1b[0m\n");
+  console.log("\n\x1b[41m\x1b[37m", `🚫 Comcast Sucks v. 1 for TP-Link TC-7620 🚫`, "\x1b[0m\n");
   cb();
 }
 
