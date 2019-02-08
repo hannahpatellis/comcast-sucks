@@ -5,8 +5,13 @@
   "repository": "https://github.com/hannahpatellis/comcast-sucks.git",
   "author": "Alexandria 'Hannah' I. Patellis",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "casperjs": "^1.1.4",
-    "dotenv": "^6.2.0"
+    "dotenv": "^6.2.0",
+    "jsonfile": "^5.0.0",
+    "moment": "^2.24.0",
+    "nightmare": "^3.0.1"
   }
 }
