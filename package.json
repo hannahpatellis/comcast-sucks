@@ -6,7 +6,7 @@
   "author": "Alexandria 'Hannah' I. Patellis",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node cs.js"
   },
   "dependencies": {
     "dotenv": "^6.2.0",
