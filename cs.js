@@ -1,5 +1,5 @@
 const Nightmare = require('nightmare');
-const jsonfile = require('jsonfile')
+const jsonfile = require('jsonfile');
 const moment = require('moment');
 require('dotenv').config();
 
